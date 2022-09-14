@@ -17,3 +17,5 @@ if(str==bag){
         console.log("No");
 
      }
+
+//No
